@@ -70,6 +70,5 @@ public class WebShop_Steps {
         if (actualCount != count) {
             fail("Incorrect quantity" + count + " results shown. The actual count was " + actualCount);
         }
-
     }
 }
